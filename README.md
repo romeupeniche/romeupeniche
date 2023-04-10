@@ -4,7 +4,8 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=romeupeniche&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeupeniche&layout=compact&langs_count=16&theme=react"/>
+  
+  <img align="right" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=romeupeniche&&show_icons=true&theme=react"/>
 </div>
 <br>
 
