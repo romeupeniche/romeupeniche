@@ -1,5 +1,5 @@
 # Front-End React Developer 👋
-Hello there, I am Romeu Peniche. A passionate Front-End React Developer who loves to code and learn new technologies.
+## Hello there, I am Romeu Peniche. A passionate Front-End React Developer who loves to code and learn new technologies.
 
 <div>
   
