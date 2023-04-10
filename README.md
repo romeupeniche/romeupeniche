@@ -22,7 +22,7 @@ Hello there, I am Romeu Peniche. A passionate Front-End React Developer who love
   
   <h1 align="center">Contact</h1>
     <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img alt="Mail icon" src="[https://img.icons8.com/ios/256/apple-mail.png](https://commons.wikimedia.org/wiki/File:Microsoft_Office_Outlook_(2018%E2%80%93present).svg#/media/File:Microsoft_Office_Outlook_(2018%E2%80%93present).svg)">
+      <img alt="Mail icon" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg">
     </a>
 </div>
   
