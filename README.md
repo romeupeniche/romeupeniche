@@ -3,8 +3,8 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=romeupeniche&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeupeniche&layout=compact&langs_count=16&theme=transparent"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=romeupeniche&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeupeniche&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
 
@@ -26,7 +26,7 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/romeupeniche/romeupeniche/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
