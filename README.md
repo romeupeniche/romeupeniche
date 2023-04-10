@@ -22,7 +22,7 @@ Hello there, I am Romeu Peniche. A passionate Front-End React Developer who love
   
   <h1 align="center">Contact</h1>
     <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img alt="Mail icon" srcset="https://img.icons8.com/ios/512/apple-mail.png 2x, https://img.icons8.com/ios/256/apple-mail.png 1x" src="https://img.icons8.com/ios/512/apple-mail.png" style="width: 256px; height: 256px; filter: invert(0%) sepia(0%) saturate(18%) hue-rotate(100deg) brightness(101%) contrast(102%);">
+      <img alt="Mail icon" src="https://img.icons8.com/ios/512/apple-mail.png" style="color: #FFF;">
     </a>
 </div>
   
