@@ -1,5 +1,13 @@
 # Hello there! 👋
-### My name is Romeu Peniche and I am a Front-End Developer who loves to code and learn new technologies.
+### I'm Romeu Peniche, a Front-End Developer driven by curiosity and a love for technology. I thrive on crafting captivating web experiences and staying at the forefront of industry trends.
+
+Beyond the screen, I'm a soccer enthusiast and gym-goer, always seeking that perfect balance between body and mind. My journey into programming ignited a passion that fuels my pursuit of constant growth and innovation.
+
+Let's connect and explore the boundless possibilities of technology together! 🚀
+
+<br />
+<br />
+## Stats
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romeupeniche&show_icons=true&theme=react" />
