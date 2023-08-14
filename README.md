@@ -1,5 +1,7 @@
 # Hello there! 👋
-### I'm Romeu Peniche, a Front-End Developer driven by curiosity and a love for technology. I thrive on crafting captivating web experiences and staying at the forefront of industry trends.
+### I'm Romeu Peniche, a Front-End Developer driven by curiosity and a love for technology.
+
+I thrive on crafting captivating web experiences and staying at the forefront of industry trends.
 
 Beyond the screen, I'm a soccer enthusiast and gym-goer, always seeking that perfect balance between body and mind. My journey into programming ignited a passion that fuels my pursuit of constant growth and innovation.
 
