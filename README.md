@@ -9,9 +9,7 @@ Let's connect and explore the boundless possibilities of technology together! ðŸ
 
 <br />
 <br />
-<div>
-  <h1align="center">Stats</h1>
-</div>
+<h1 align="center">Stats</h1>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romeupeniche&show_icons=true&theme=react" />
