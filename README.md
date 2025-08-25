@@ -1,39 +1,36 @@
 # Hello there! 👋
-### I'm Romeu Peniche, a Front-End Developer driven by curiosity and a love for technology.
+### I'm Romeu Peniche, a React Developer driven by curiosity and a love for technology.
 
-I thrive on crafting captivating web experiences and staying at the forefront of industry trends.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romeupeniche)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:romeupeniche12@outlook.com)
 
-Beyond the screen, I'm a soccer enthusiast and gym-goer, always seeking that perfect balance between body and mind. My journey into programming ignited a passion that fuels my pursuit of constant growth and innovation.
-
-Let's connect and explore the boundless possibilities of technology together! 🚀
-
-<br />
-<br />
-<h1 align="center">Stats</h1>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romeupeniche&show_icons=true&theme=react" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeupeniche&layout=compact&theme=react" />
 </div>
-<br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h1 align="center">Tech Stack</h1>
-    <img align="center" height="50" width="60" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="50" width="60" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="50" width="60" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="50" width="60" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="50" width="60" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-    <img align="center" height="50" width="60" alt="material-ui-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
-    <img align="center" height="50" width="60" alt="firebase-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-   </div>
-    
-  
-  <h1 align="center">Contact</h1>
-    <a href = "mailto: romeupeniche12@hotmail.com">
-      <img alt="Mail icon" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="30">
-    </a>
+
+### Tech Stack
+<div style="display:flex; flex-wrap: wrap;"> 
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="Material UI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="Next JS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  <img align="center" alt="React DevTools" src="https://img.shields.io/badge/React_DevTools-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
   
-![Snake animation](https://github.com/romeupeniche/romeupeniche/blob/output/github-contribution-grid-snake.svg)
+### Tools
+<div style="display:flex; flex-wrap: wrap;">
+    <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+</div>
